@@ -43,7 +43,7 @@ SMTP: For sending the emails directly to your inbox! ✉
 Getting up and running is easy with just a few steps:
 
 1. Clone the Repository:
-git clone https://github.com/yourusername/RainAlert-Notifier.git
+git clone https://github.com/SrinjoyeeDey/Twilio-Rain-Alert.git
 
 
 2. Install Required Dependencies:

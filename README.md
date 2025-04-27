@@ -124,7 +124,7 @@ Together, let’s make this weather alert system even better! 🌈
 
 ## 🔗 Links:
 
-GitHub Repo: RainAlert-Notifier
+GitHub Repo: https://github.com/SrinjoyeeDey/Twilio-Rain-Alert/tree/main
 
 Twilio API Documentation: https://www.twilio.com/login?iss=https%3A%2F%2Flogin.twilio.com%2F
 
